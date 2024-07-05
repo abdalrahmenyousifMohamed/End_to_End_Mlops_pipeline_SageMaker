@@ -8,7 +8,7 @@ This repository contains projects and tools focused on managing, governing, and 
 
 A comprehensive MLOps pipeline using AWS SageMaker, ensuring streamlined model development, deployment, and monitoring with built-in compliance checks.
 
-### 2. GCP
+### 2. [GCP](https://github.com/abdalrahmenyousifMohamed/GCP/tree/main/MLFLOW_ON_GCP)
 
 AI and ML projects leveraging Google Cloud Platform, emphasizing governance and regulatory compliance.
 
